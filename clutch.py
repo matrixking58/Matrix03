@@ -26,7 +26,7 @@ url = "https://ldmyijysjjaimrbpqmek.supabase.co"
 key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxkbXlpanlzamphaW1yYnBxbWVrIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTczMjkwNjE5MSwiZXhwIjoyMDQ4NDgyMTkxfQ.mCpuIq0yPRskbuyxjXk57sB99dDqhxZ2YRJxtwaRk3U"
 supabase: Client = create_client(url, key)
 
-bot = telebot.TeleBot('7672708823:AAF3LZPZqKmoiXimApDzJI5n1QR5-Lnw-3s')
+bot = telebot.TeleBot('7608952192:AAHuAhO4ajjeDqGRTNTj1NpZR0MgnC4KkdY')
 IST = pytz.timezone('Asia/Kolkata')
 
 # Database connection
